@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zstoimchev)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://[zstoimchev].m.pipedream.net)
 
