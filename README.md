@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zstoimchev)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZSTOIMCHEV&repo=C--)
+![counter](https://[YourEndpoint].m.pipedream.net)
+
