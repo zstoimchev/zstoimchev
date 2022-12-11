@@ -8,7 +8,6 @@ I'm Computer science student from Macedonia, currently based in Koper, Slovenia.
 - 🌏 Website is still in progress, <a href=>this will be the hyperlink**</a>
 - 📫 Reach me on my email: <a href = "mailto: zivkostoimcev1551@outlook.com">zivkostoimcev1551@outlook.com</a>
 ✨
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 (8) Making a View Counter for GitHub Repos - Easy PHP Tutorial - YouTube
