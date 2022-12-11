@@ -1,14 +1,9 @@
 ### Hi there 👋
 hello again
 
-🔭 I’m currently working on computational interactions and adaptive visualizations on music learning.
+I'm Computer Science student from Macedonia currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska. Prior to that, i finished Gymnasium.
 
-⚡ Fun fact: If you go google "cramming professor meme", you'll see me in the top results.
-
-🌏 Check out my website at https://jrdndj.com.
-
-📫 If you wish to collaborate or communicate with me you may send me an email to jordan.deja[at]famnit[dot]upr[dot]si
-
+- first dot
 <!--
 **zstoimchev/zstoimchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
