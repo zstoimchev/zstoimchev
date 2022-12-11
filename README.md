@@ -7,7 +7,7 @@ I'm Computer science student from Macedonia, currently based in Koper, Slovenia.
 
 - 🤔 I’m looking for help with math, expecially Analysis I and Algebra I
 
-- 🌏 Website is still in progress, <a href=>this will be the hyperlink**</a>
+- 🌏 Website is still in progress, <a>this will be the hyperlink**</a>
 
 - 📫 Reach me on my email: <a href = "mailto: zivkostoimcev1551@outlook.com">zivkostoimcev1551@outlook.com</a>
 ✨
