@@ -4,16 +4,15 @@ hello again
 <p align="center">
 I'm Computer Science student from Macedonia currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska. Prior to that, i finished Gymnasium. </p>
 
-- 🔭 I’m currently working on CS degree at UP FAMNIT
+- 🔭 I’m currently working on bachelors in CS at UP FAMNIT
 - 🤔 I’m looking for help with math, expecially Analysis I and Algebra I
-- 🌏 My website is in progress, <a>this will be the hyperlink**</a>
+- 🌏 My website is in progress, <a href="">this will be the hyperlink**</a>
+- 📫 Reach me on my email: <a href = "mailto: zivkostoimcev1551@outlook.com">zivkostoimcev1551@outlook.com</a>
+✨
 
-- first dot
+
+
 <!--
-**zstoimchev/zstoimchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on CS degree ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
