@@ -1,7 +1,9 @@
 ### Hi there 👋
 hello again
 
+<p align="center">
 I'm Computer Science student from Macedonia currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska. Prior to that, i finished Gymnasium.
+  <\p>
 
 - first dot
 <!--
