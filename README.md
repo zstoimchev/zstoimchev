@@ -2,8 +2,11 @@
 hello again
 
 <p align="center">
-I'm Computer Science student from Macedonia currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska. Prior to that, i finished Gymnasium.
-  <\p>
+I'm Computer Science student from Macedonia currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska. Prior to that, i finished Gymnasium. </p>
+
+- 🔭 I’m currently working on CS degree at UP FAMNIT
+- 🤔 I’m looking for help with math, expecially Analysis I and Algebra I
+- 🌏 My website is in progress, <a>this will be the hyperlink**</a>
 
 - first dot
 <!--
