@@ -11,9 +11,9 @@ I'm Computer science student from Macedonia, currently based in Koper, Slovenia.
 ✨
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
-
-
 <!--
+(8) Making a View Counter for GitHub Repos - Easy PHP Tutorial - YouTube
+
 - 🔭 I’m currently working on CS degree ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
