@@ -7,7 +7,7 @@ I'm Computer science student from Macedonia, currently based in Koper, Slovenia.
 
 - 🔭 Currently working on bachelors in CS at UP FAMNIT
 
-- 🌏 Website is still in progress, <b>this will be the hyperlink**</b>
+- 🌏 Check out my website at <a href="https://zstoimchev.github.io">zstoimchev.github.io</a>
 
 - 📫 Reach me on my email: <a href = "mailto: zivkostoimcev1551@outlook.com">zivkostoimcev1551@outlook.com</a>
 ✨
