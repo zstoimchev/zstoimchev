@@ -3,7 +3,7 @@
 <p align="center">
 I'm Computer science student from Macedonia, currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies (<a href="https://www.famnit.upr.si/en">UP FAMNIT</a>). Prior to that, i finished high school in Gymnasium <a href="dobridaskalov.edu.mk">Dobri Daskalov</a>, in my hometown. With experience to be gained, pursuing pentesting and ethical hacking career. </p>
 
-- 📍 ➣ Koper, Slovenia
+- 📍 Koper, Slovenia <!--➣ -->
 
 - 🔭 Working on BS Computer Science at UP FAMNIT
 
