@@ -9,7 +9,7 @@ I'm Computer science student from Macedonia, currently based in Koper, Slovenia.
 
 - 🌏 Check out my website at <a href="https://zstoimchev.github.io">zstoimchev.github.io</a>
 
-- 📫 Reach me on my email: <a href = "mailto: zivkostoimcev1551@outlook.com">zivkostoimcev1551@outlook.com</a>
+- 📫 Reach me on my email: <a href = "mailto: stoimchev@outlook.com">stoimchev@outlook.com</a>
 ✨
 
 <!--
