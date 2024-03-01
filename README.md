@@ -1,11 +1,7 @@
 <h2 align="center">Zhivko's saying Hello 👋</h2>
 
 <p align="center">
-I'm Computer science student from Macedonia, currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies (<a href="https://www.famnit.upr.si/en">UP FAMNIT</a>). Prior to that, i finished high school in Gymnasium <a href="dobridaskalov.edu.mk">Dobri Daskalov</a>, in my hometown. With experience to be gained, pursuing pentesting and ethical hacking career. </p>
-
-- 📍 Koper, Slovenia <!--➣ -->
-
-- 🔭 Working on BS Computer Science at UP FAMNIT
+Greetings! I'm Zhivko, second year Computer Science student currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies (<a href="https://www.famnit.upr.si/en">UP FAMNIT</a>). I like taking new challenges, and learning from my mistakes. </p>
 
 - 🌏 Check out my website at <a href="https://zstoimchev.github.io">zstoimchev.github.io</a>
 
