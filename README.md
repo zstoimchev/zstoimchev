@@ -6,7 +6,7 @@ Greetings! I'm Zhivko, second year Computer Science student currently based in K
 - 🌏 Check out my website at <a href="https://zstoimchev.github.io">zstoimchev.github.io</a>
 
 - 📫 Reach me on my email: <a href = "mailto: zstoimchev@outlook.com">zstoimchev@outlook.com</a>
-✨
+<!-- ✨ -->
 
 <!--
 (8) Making a View Counter for GitHub Repos - Easy PHP Tutorial - YouTube
