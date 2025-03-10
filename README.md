@@ -1,7 +1,7 @@
 <h2 align="center">Zhivko's saying Hello 👋</h2>
 
 <p align="center">
-Greetings! I'm Zhivko, second year Computer Science student currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies (<a href="https://www.famnit.upr.si/en">UP FAMNIT</a>). I like taking new challenges and learning from my mistakes. Cheers!</p>
+Greetings! I'm Zhivko, third year Computer Science student currently based in Koper, Slovenia. I'm doing my bachelors at the University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies (<a href="https://www.famnit.upr.si/en">UP FAMNIT</a>). I like taking new challenges and learning from my mistakes. Cheers!</p>
 
 - 🌏 Check out my website at <a href="https://zstoimchev.github.io">zstoimchev.github.io</a>
 
