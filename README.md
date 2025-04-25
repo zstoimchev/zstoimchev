@@ -5,7 +5,14 @@ I'm **Zhivko**, a Computer Science student passionate about infrastructure, netw
 *3rd Year CS Student @ University of Primorska, Slovenia*
 
 ```text
-As a wise man once said: "Passion & Dedication, Linux for the Nation." — (me)
+As a wise man once said:            ╔════════════════════╗
+ ╔════════════════╗                 ║    SYSTEM STATS    ║
+ ║   "Passion &   ║                 ╠════════════════════╣
+ ║  Dedication,   ║                 ║   RAM:  Overused   ║
+ ║ Linux for the  ║                 ║    CPU: At 100%    ║
+ ║    Nation."    ║                 ║   Uptime: 3 days   ║
+ ╚════════════════╝                 ╚════════════════════╝
+ — found in /var/log/zhivko/wisdom.log
 ```
 
 ### 🌟 Currently Obsessed With  
