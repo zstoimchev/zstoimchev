@@ -1,69 +1,64 @@
-<!-- <h2 align="center">Zhivko's saying Hello 👋</h2> -->
+# 🚀 Hello there! 👋
+I'm **Zhivko**, a Computer Science student passionate about infrastructure, networks, and security.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%; padding-right: 1%;">
-    <!-- Left Column Content -->
-    <h2>Welcome, Friend! 👋</h2>
-    <p>Greetings! I'm Zhivko, a third-year Computer Science student based in Koper, Slovenia...</p>
-    <h3>🚀 My expandable skillset:</h3>
-    <h4>System Administration:</h4>
-    <ul>
-      <li><b>Operating systems:</b> Linux (distro hopping), Windows / Windows Server</li>
-      <li><b>Virtualization:</b> Proxmox, VirtualBox, VMWare...</li>
-      <li><b>Automation:</b> Bash scripts, cron jobs, Ansible, Puppet...</li>
-      <!-- Add more items -->
-    </ul>
-    <h4>Networking:</h4>
-    <ul>
-      <li>OSI and TCP/IP models</li>
-      <li>Subnetting, routing, and switching...</li>
-    </ul>
-  </div>
+**System Administrator | Network Enthusiast | Cybersecurity Aspirant**  
+*3rd Year CS Student @ University of Primorska, Slovenia*
 
-  <div style="width: 48%; padding-left: 1%;">
-    <!-- Right Column Content -->
-    <h4>Cybersecurity:</h4>
-    <ul>
-      <li><b>Core Concepts:</b> Common vulnerabilities, exploitation techniques...</li>
-      <li><b>Scripting:</b> Python, Bash (for automation and tool development)</li>
-      <li><b>Ethics:</b> GDPR, HIPAA...</li>
-    </ul>
-    <h3>💻 Current Projects:</h3>
-    <ul>
-      <li><b>Blockchain in Java:</b> Developing a blockchain application...</li>
-      <li><b>Portfolio Website in Next.js:</b> Exploring server-side rendering...</li>
-      <!-- Add more items -->
-    </ul>
-    <h3>📬 Get in Touch:</h3>
-    <ul>
-      <li>🌏 Visit my <a href="https://zstoimchev.github.io">website</a></li>
-      <li>📧 Send me an <a href="mailto:zstoimchev@outlook.com">email</a></li>
-      <li>💬 Connect on <a href="https://www.linkedin.com/in/zstoimchev">LinkedIn</a></li>
-    </ul>
-  </div>
+```text
+As a wise man once said: "Passion & Dedication, Linux for the Nation." — (me)
+```
+
+### 🌟 Currently Obsessed With  
+  - Rewriting all my scripts in Rust (yes, even `hello_world`) 🦀
+  - Building a Proxmox cluster that hosts everything except common sense 🏗️
+
+## 🔧 Core Expertise
+
+### 💻 Development
+  - **Backend:** .NET Core, Spring Boot, Express.js (Web/REST APIs, MVC)
+  - **Frontend:** React/Next.js, JavaScript/TypeScript, Bootstrap/TailwindCSS
+
+### 🖥️ System Administration
+  - **Operating Systems:** Linux (Debian, Ubuntu, Fedora, RHEL, Arch), Windows, Windows Server
+  - **Virtualization:** Proxmox homelab (VMs: Apache, Nextcloud, DBs), VMware/VirtualBox
+  - **Containers:** Docker & Kubernetes (limited experience)
+
+### 🌐 Networking
+  - **Core:** TCP/IP, routing, switching (pfSense, OpenVPN)
+  - **Tools:** Wireshark, Nmap, tcpdump
+  - **Security:** IDS/IPS, NAC, firewall configuration
+
+### 🔐 Cybersecurity Exploration
+*(Building skills through hands-on labs and coursework)*
+  - **Web Security:** Practicing OWASP Top 10 vulnerabilities
+  - **Tools:** Learning Burp Suite, Metasploit in lab environments
+  - **Defenses:** Implementing firewall rules, system hardening
+
+### 🏗️ Active Projects
+  - **Library Manaegment System:** Fullstack .NET Core + React application for managing books & authors
+  - **Next.js Portfolio:** Portfolio with integrated blog about current/finished projects and updates
+  - **Blockchain Explorer:** Java-based learning project
+  - **Homelab Evolution:** Proxmox cluster with security-focused VMs, DBs, selfhosted Nextcloud
+  - **Pentest Lab:** VulnHub machines, Safe space to test hacking techniques
+
+## 🌱 Currently Learning
+  - Automating deployments with Ansible
+  - Containerization (Docker/Kubernetes) 
+  - Network security fundamentals
+  - Cloud security basics (AWS/Azure)
+
+## 📊 GitHub Stats:
+<div class='container' style="display: flex; flex-direction: row;">
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=zstoimchev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="zstoimchev's GitHub Stats" />
+  <img style="height: auto; width: 51%;" class="img" src="https://streak-stats.demolab.com?user=zstoimchev&theme=tokyonight&hide_border=false" alt="zstoimchev's GitHub Streak" />
 </div>
 
+ ## 📬 Get in Touch
+  - 🌏 Visit my [Website](https://zstoimchev.github.io) and explore my work
+  - 📧 Send me an [Email](mailto:zstoimchev@outlook.com) to get in touch
+  - 💬 Connect on [LinkedIn](https://www.linkedin.com/in/zstoimchev) for networking
+    
 
-<!-- https://profilinator.rishav.dev/ -->
-<!-- ✨ -->
-
-<!--
-(8) Making a View Counter for GitHub Repos - Easy PHP Tutorial - YouTube
-
-- 🔭 I’m currently working on CS degree ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zstoimchev&count_private=true&theme=tokyonight&showicons=true)]() ->>
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zstoimchev&langs_count=5&theme=tokyonight)]() -->
-
-
-
-<!-- ![pv](https://pageview.vercel.app/?github_user=zstoimchev) -->
+```text
+Fun fact: You can't get hacked if you pull the cable in time... right? 🤓🔌💥"
+```
