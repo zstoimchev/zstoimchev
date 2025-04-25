@@ -5,14 +5,14 @@ I'm **Zhivko**, a Computer Science student passionate about infrastructure, netw
 *3rd Year CS Student @ University of Primorska, Slovenia*
 
 ```text
-As a wise man once said:
- ╔══════════════════╗                         ╔════════════════════╗
- ║   "Passion and   ║                         ║    SYSTEM STATS    ║
- ║    Dedication,   ║                         ╠════════════════════╣
- ║   Linux for the  ║                         ║   RAM:  Overused   ║
- ║      Nation"     ║                         ║    CPU: At 100%    ║
- ╚══════════════════╝                         ║   Uptime: 3 days   ║
- — found in /var/log/zhivko/wisdom.log        ╚════════════════════╝
+As a wise man once said:                                                                    .--.
+ ╔══════════════════╗                         ╔════════════════════╗                       |o_o |
+ ║   "Passion and   ║                         ║    SYSTEM STATS    ║                       |:_/ |
+ ║    Dedication,   ║                         ╠════════════════════╣                      //   \ \
+ ║   Linux for the  ║                         ║   RAM:  Overused   ║                     (|     | )
+ ║      Nation"     ║                         ║    CPU: At 100%    ║                    /'\_   _/`\
+ ╚══════════════════╝                         ║   Uptime: 3 days   ║                    \___)=(___/  
+ — found in /var/log/zhivko/wisdom.log        ╚════════════════════╝       Linux v◡.◡v  # apt-get install happiness
 ```
 
 ### 🌟 Currently Obsessed With  
