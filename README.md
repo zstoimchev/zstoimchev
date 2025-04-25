@@ -5,14 +5,14 @@ I'm **Zhivko**, a Computer Science student passionate about infrastructure, netw
 *3rd Year CS Student @ University of Primorska, Slovenia*
 
 ```text
-As a wise man once said:            ╔════════════════════╗
- ╔════════════════╗                 ║    SYSTEM STATS    ║
- ║   "Passion &   ║                 ╠════════════════════╣
- ║  Dedication,   ║                 ║   RAM:  Overused   ║
- ║ Linux for the  ║                 ║    CPU: At 100%    ║
- ║    Nation."    ║                 ║   Uptime: 3 days   ║
- ╚════════════════╝                 ╚════════════════════╝
- — found in /var/log/zhivko/wisdom.log
+As a wise man once said:
+ ╔══════════════════╗                         ╔════════════════════╗
+ ║   "Passion and   ║                         ║    SYSTEM STATS    ║
+ ║    Dedication,   ║                         ╠════════════════════╣
+ ║   Linux for the  ║                         ║   RAM:  Overused   ║
+ ║      Nation"     ║                         ║    CPU: At 100%    ║
+ ╚══════════════════╝                         ║   Uptime: 3 days   ║
+ — found in /var/log/zhivko/wisdom.log        ╚════════════════════╝
 ```
 
 ### 🌟 Currently Obsessed With  
