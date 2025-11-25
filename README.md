@@ -42,9 +42,10 @@ As a wise man once said:                                                        
   - **Defenses:** Implementing firewall rules, system hardening
 
 ### 🏗️ Active Projects
+  - **Zetra (Blockchain):** simple blockchain developed in pure Java 21
+  - **Zmix (Peer to Peer Onion Routing):** peer to peer netowrk in Java 21 simulating onion routing
   - **Library Manaegment System:** Fullstack .NET Core + React application for managing books & authors
   - **Next.js Portfolio:** Portfolio with integrated blog about current/finished projects and updates
-  - **Blockchain Explorer:** Java-based learning project
   - **Homelab Evolution:** Proxmox cluster with security-focused VMs, DBs, selfhosted Nextcloud
   - **Pentest Lab:** VulnHub machines, Safe space to test hacking techniques
 
