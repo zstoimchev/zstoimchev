@@ -1,8 +1,8 @@
 # 🚀 Hello there! 👋
 I'm **Zhivko**, a Computer Science student passionate about infrastructure, networks, and security.
 
-**System Administrator | Network Enthusiast | Cybersecurity Aspirant**  
-*3rd Year CS Student @ University of Primorska, Slovenia*
+**System Administrator | Network Enthusiast | Cybersecurity Enthusiast**  
+*3rd Year Computer Science Student @ University of Primorska, Slovenia*
 
 ```text
 As a wise man once said:                                                              .--.
@@ -22,13 +22,14 @@ As a wise man once said:                                                        
 ## 🔧 Core Expertise
 
 ### 💻 Development
-  - **Backend:** .NET Core, Spring Boot, Express.js (Web/REST APIs, MVC)
+  - **System Application:** Primarly Java, but also working in C/C++. Can handle Python too.
+  - **Backend:** .NET Core, Aspire, Spring Boot, Node.js, Express.js
   - **Frontend:** React/Next.js, JavaScript/TypeScript, Bootstrap/TailwindCSS
 
 ### 🖥️ System Administration
   - **Operating Systems:** Linux (Debian, Ubuntu, Fedora, RHEL, Arch), Windows, Windows Server
   - **Virtualization:** Proxmox homelab (VMs: Apache, Nextcloud, DBs), VMware/VirtualBox
-  - **Containers:** Docker & Kubernetes (limited experience)
+  - **Containers:** Docker & Kubernetes (limited experience, still exploring the rabbit hole)
 
 ### 🌐 Networking
   - **Core:** TCP/IP, routing, switching (pfSense, OpenVPN)
@@ -42,8 +43,8 @@ As a wise man once said:                                                        
   - **Defenses:** Implementing firewall rules, system hardening
 
 ### 🏗️ Active Projects
+  - **Zmix (Peer to Peer Onion Network):** peer to peer netowrk in Java 21 simulating onion routing
   - **Zetra (Blockchain):** simple blockchain developed in pure Java 21
-  - **Zmix (Peer to Peer Onion Routing):** peer to peer netowrk in Java 21 simulating onion routing
   - **Library Manaegment System:** Fullstack .NET Core + React application for managing books & authors
   - **Next.js Portfolio:** Portfolio with integrated blog about current/finished projects and updates
   - **Homelab Evolution:** Proxmox cluster with security-focused VMs, DBs, selfhosted Nextcloud
