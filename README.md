@@ -63,8 +63,8 @@ As a wise man once said:                                                        
 </div>
 
  ## 📬 Get in Touch
-  - 🌏 Visit my [Website](https://zstoimchev.github.io) and explore my work
-  - 📧 Send me an [Email](mailto:zstoimchev@outlook.com) to get in touch
+  - 🌏 Visit my [Website](https://zstoimchev.com) and explore my work
+  - 📧 Send me an [Email](mailto:zstoimchev@gmail.com) to get in touch
   - 💬 Connect on [LinkedIn](https://www.linkedin.com/in/zstoimchev) for networking
     
 
