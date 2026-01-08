@@ -10,7 +10,7 @@ As a wise man once said:                                                        
  ║   "Passion and   ║                        ║    SYSTEM STATS    ║                  |:_/ |
  ║    Dedication,   ║                        ╠════════════════════╣                 //   \ \
  ║   Linux for the  ║                        ║   RAM:  Overused   ║                (|     | )
- ║      Nation"     ║                        ║    CPU: At 100%    ║               /'\_   _/`\
+ ║      Nation"     ║                        ║    CPU: at 100%    ║               /'\_   _/`\
  ╚══════════════════╝                        ║   Uptime: 3 days   ║               \___)=(___/  
  — found in /var/log/zhivko/wisdom.log       ╚════════════════════╝               Linux v◡.◡v
 ```
