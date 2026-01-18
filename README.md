@@ -6,8 +6,8 @@ _3rd Year Computer Science Student @ University of Primorska, Slovenia_
 
 ```text
 ╔════════════════════════════════════════════════════════════════════════════════════╗
-║   zstoimchev@githubx:~$ fastfetch                                                  ║
-║                                                                                    ║
+║     > $ fastfetch                         zstoimchev@github                        ║
+║                                           -----------------                        ║
 ║       ██ ███████╗███████╗ ██              OS: Fedora Linux (Workstation Edition)   ║
 ║      ██  ╚══███╔╝██╔════╝  ██             Role: SysAdmin / Network Engineer        ║
 ║     ██     ███╔╝ ███████╗   ██            Focus: Security & Infrastructure         ║
