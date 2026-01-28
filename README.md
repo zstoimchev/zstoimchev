@@ -33,33 +33,29 @@ Current Focus:
 └── Security Research & Penetration Testing
 ```
 
-
-## 🔧 Technical Expertise
+## 🔧 Technical Skills & Stack
 
 ### System Administration & Infrastructure
-- **Linux Administration:** Debian, Ubuntu, Fedora, RHEL, Arch
-- **Virtualization:** Proxmox VE (multi-VM homelab), VMware, VirtualBox
-- **Self-Hosted Services:** Nextcloud, Apache web servers, database servers
-- **Windows:** Windows Server, Active Directory basics
+- **OS Administration:** Linux (Debian, Ubuntu, Fedora, RHEL, Arch), Windows Server (Active Directory)
+- **Virtualization & Containerization:** Proxmox VE, VMware, VirtualBox, Docker (learning Kubernetes)
+- **Services & Tools:** Nextcloud, Apache, PostgreSQL, MySQL, pfSense, OpenVPN, DNS/DHCP
 
 ### Networking & Security
-- **Core Protocols:** TCP/IP stack, routing, switching
-- **Security Tools:** Wireshark, Nmap, tcpdump, Burp Suite (learning)
-- **Network Services:** pfSense, OpenVPN, DNS, DHCP
-- **Security Concepts:** IDS/IPS, firewall configuration, OWASP Top 10
+- **Protocols & Concepts:** TCP/IP, routing, switching, firewall configuration, IDS/IPS, OWASP Top 10
+- **Tools:** Wireshark, Nmap, tcpdump, Burp Suite, Nessus
+- **VPN & Firewall:** pfSense, OpenVPN
 
 ### Development & Automation
-- **Systems Programming:** C, C++, Java, C#, Python
-- **Backend Development:** .NET Core/Aspire, Spring Boot, Node.js/Express
-- **Frontend:** React, Next.js, TypeScript
-- **Containerization:** Docker (exploring Kubernetes)
-- **Version Control:** Git, GitHub workflows
+- **Languages:** C, C++, Java, C#, Python, JavaScript/TypeScript, Bash
+- **Backend:** .NET Core, Spring Boot, Node.js/Express
+- **Frontend:** React, Next.js
+- **Version Control & CI/CD:** Git, GitHub Workflows
+
 
 
 ## 🚀 Featured Projects
 
 ### Network & Security Projects
-
 - [**zmix**](https://github.com/zstoimchev/zmix) – _Tor-inspired P2P anonymous network with layered encryption_
 - [**zetra**](https://github.com/zstoimchev/zetra) – _Educational blockchain exploring consensus and cryptography_
 - [**ztron**](https://github.com/zstoimchev/ztron) – _Merkle tree builder and verifier for file integrity (work in progress)_
@@ -74,7 +70,6 @@ Current Focus:
 ![Integrity](https://img.shields.io/badge/Integrity-lightgrey?style=flat)
 
 ### 🧠 Systems & Algorithms
-
 - [**socket-msg-exch**](https://github.com/zstoimchev/socket-msg-exch) – _Raw TCP socket message exchange in C_
 - [**lzw-compression**](https://github.com/zstoimchev/lzw-compression) – _Classic LZW compression algorithm in Java_
 
@@ -86,7 +81,6 @@ Current Focus:
 ![Optimization](https://img.shields.io/badge/Optimization-red?style=flat)
 
 ### 🌐 Full-Stack & Community
-
 - [**library-management-system**](https://github.com/zstoimchev/library-management-system) – _Full-stack CRUD app for managing books and authors_
 - [**portfolio**](https://github.com/zstoimchev/portfolio) – _Self-hosted personal site for showcasing projects and experience_
 - [**campus-companion**](https://github.com/zstoimchev/campus-companion) – _AI-powered student tool platform focused on community engagement_
@@ -99,56 +93,28 @@ Current Focus:
 ![Database Modeling](https://img.shields.io/badge/Database%20Modeling-darkorange?style=flat)
 
 
-## 🏗️ Homelab & Infrastructure
+## 🏗️ Homelab & Cybersecurity Journey
 
 **Current Setup:**
 - **Hypervisor:** Proxmox VE cluster managing multiple VMs
-- **Services Running:**
-  - Apache web servers
-  - Nextcloud (self-hosted cloud storage)
-  - Database servers (PostgreSQL, MySQL)
-  - Development environments
-- **Network:** Segmented VLANs, pfSense firewall, VPN access
-- **Security:** Regular patching, firewall rules, intrusion monitoring
+- **Services:** Apache, Nextcloud, PostgreSQL/MySQL, dev environments
+- **Network & Security:** VLAN segmentation, pfSense firewall, VPN, regular patching
 
 **Learning Goals:**
 - Infrastructure as Code with Ansible
 - Docker Swarm/Kubernetes orchestration
 - Centralized logging (ELK stack)
-- Security hardening and compliance
-
-
-## 📚 Cybersecurity Journey
-
-### Current Learning Path
-- **Web Security:** Practicing OWASP Top 10 vulnerabilities in controlled environments
-- **Penetration Testing:** Working through VulnHub machines, TryHackMe labs
-- **Tools:** Gaining proficiency with Burp Suite, Metasploit, Nessus
-- **Network Security:** IDS/IPS configuration, network traffic analysis
-- **System Hardening:** CIS benchmarks, secure configurations
-
-### Certifications (Planned)
-- CompTIA Security+
-- Certified Ethical Hacker (CEH)
-- CCNA
+- Web & Network Security: OWASP Top 10, IDS/IPS, penetration testing
+- Tools: Burp Suite, Metasploit, Nessus
+- Certifications: CompTIA Security+, CEH, CCNA
 
 > Fun fact: You can't get hacked if you pull the cable in time... right? 🤓🔌💥"z
 
 
-## 🛠️ Tech Stack
-
-**Operating Systems:** Linux (Primary), Windows Server  
-**Languages:** Java, C, C++, C#, JavaScript/TypeScript, Python, Bash  
-**Frameworks:** .NET Core, Spring Boot, React, Next.js, Node.js  
-**DevOps:** Git, Docker, Proxmox, CI/CD basics  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Networking:** TCP/IP, DNS, DHCP, VPN, Firewall configuration  
-**Security Tools:** Wireshark, Nmap, Burp Suite, tcpdump, pfSense
-
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zstoimchev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://github-stats-pi-five.vercel.app/api?username=zstoimchev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=zstoimchev&theme=tokyonight&hide_border=false)
 
 
