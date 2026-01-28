@@ -9,13 +9,13 @@ _3rd Year Computer Science Student @ University of Primorska, Slovenia_
 ║     > $ fastfetch                         zstoimchev@github                        ║
 ║                                           -----------------                        ║
 ║       ██ ███████╗███████╗ ██              OS: Fedora Linux (Workstation Edition)   ║
-║      ██  ╚══███╔╝██╔════╝  ██             Role: SysAdmin / Network Engineer        ║
-║     ██     ███╔╝ ███████╗   ██            Focus: Security & Infrastructure         ║
-║     ██    ███╔╝  ╚════██║   ██            Homelab: Proxmox + pfSense               ║
-║      ██  ███████╗███████║  ██             Languages: Bash, C, Java, Rust           ║
-║       ██ ╚══════╝╚══════╝ ██              Location: Koper, Slovenia                ║
-║                                                                                    ║
-║     CPU usage: ██████████ 100%            Kernel: Linux 6.17.12-300.fc43.x86_64    ║
+║      ██  ╚══███╔╝██╔════╝  ██             Role: SysAdmin / Network Engineer        ║        .--.
+║     ██     ███╔╝ ███████╗   ██            Focus: Security & Infrastructure         ║       |o_o |
+║     ██    ███╔╝  ╚════██║   ██            Homelab: Proxmox + pfSense               ║       |:_/ |
+║      ██  ███████╗███████║  ██             Languages: Bash, C, Java, Rust           ║      //   \ \
+║       ██ ╚══════╝╚══════╝ ██              Location: Koper, Slovenia                ║     (|     | )
+║                                                                                    ║    /'\_   _/`\
+║     CPU usage: ██████████ 100%            Kernel: Linux 6.17.12-300.fc43.x86_64    ║    \___)=(___/
 ║     RAM usage: ████████░░  80%            Uptime: depends on the last reboot       ║
 ╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -152,3 +152,15 @@ Current Focus:
 - Tools: Burp Suite, Metasploit, Nessus
 
 </details>
+
+
+```
+As a wise man once said:                                                              .--.
+ ╔══════════════════╗                        ╔════════════════════╗                  |o_o |
+ ║   "Passion and   ║                        ║    SYSTEM STATS    ║                  |:_/ |
+ ║    Dedication,   ║                        ╠════════════════════╣                 //   \ \
+ ║   Linux for the  ║                        ║   RAM:  Overused   ║                (|     | )
+ ║      Nation"     ║                        ║    CPU: At 100%    ║               /'\_   _/`\
+ ╚══════════════════╝                        ║   Uptime: 3 days   ║               \___)=(___/  
+ — found in /var/log/zhivko/wisdom.log       ╚════════════════════╝               Linux v◡.◡v
+ ```
