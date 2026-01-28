@@ -55,7 +55,7 @@ Current Focus:
 
 ## 🚀 Featured Projects
 
-### Network & Security Projects
+### 🕵️‍♀️ Network & Security Projects
 - [**zmix**](https://github.com/zstoimchev/zmix) – _Tor-inspired P2P anonymous network with layered encryption_
 - [**zetra**](https://github.com/zstoimchev/zetra) – _Educational blockchain exploring consensus and cryptography_
 - [**ztron**](https://github.com/zstoimchev/ztron) – _Merkle tree builder and verifier for file integrity (work in progress)_
