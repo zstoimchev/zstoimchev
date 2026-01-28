@@ -135,32 +135,3 @@ Current Focus:
 ```
 
 💡 *Open to collaborations on infrastructure, networking, and security projects*
-
-
-
-
-
-
-<details>
-<summary>🏗️ Homelab & Cybersecurity</summary>
-
-- Hypervisor: Proxmox VE cluster  
-- Services: Apache, Nextcloud, PostgreSQL/MySQL  
-- Networking: VLAN segmentation, pfSense, VPN  
-- Learning: Ansible, Docker/Kubernetes, ELK stack  
-- Security: OWASP Top 10, IDS/IPS, penetration testing  
-- Tools: Burp Suite, Metasploit, Nessus
-
-</details>
-
-
-```
-As a wise man once said:                                                              .--.
- ╔══════════════════╗                        ╔════════════════════╗                  |o_o |
- ║   "Passion and   ║                        ║    SYSTEM STATS    ║                  |:_/ |
- ║    Dedication,   ║                        ╠════════════════════╣                 //   \ \
- ║   Linux for the  ║                        ║   RAM:  Overused   ║                (|     | )
- ║      Nation"     ║                        ║    CPU: At 100%    ║               /'\_   _/`\
- ╚══════════════════╝                        ║   Uptime: 3 days   ║               \___)=(___/  
- — found in /var/log/zhivko/wisdom.log       ╚════════════════════╝               Linux v◡.◡v
- ```
