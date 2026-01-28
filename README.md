@@ -112,12 +112,6 @@ Current Focus:
 
 
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-stats-pi-five.vercel.app/api?username=zstoimchev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=zstoimchev&theme=tokyonight&hide_border=false)
-
-
 ## 🌱 Currently Working On
 
 - Building automated deployment pipelines with Ansible
@@ -125,6 +119,14 @@ Current Focus:
 - Contributing to open-source projects in networking and security
 - Documenting infrastructure and creating technical write-ups
 - Preparing for security certifications
+
+
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-stats-pi-five.vercel.app/api?username=zstoimchev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=zstoimchev&theme=tokyonight&hide_border=false)
+
 
 
 ## 📫 Get in Touch
