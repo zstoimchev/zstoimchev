@@ -60,33 +60,43 @@ Current Focus:
 
 ### Network & Security Projects
 
-#### [**zmix**](https://github.com/zstoimchev/zmix) - P2P Onion Network
-Peer-to-peer network implementing onion routing in pure Java 21. Demonstrates understanding of network protocols, encryption layers, and anonymous communication systems.
-- **Skills:** Network programming, cryptography, P2P architecture
+- [**zmix**](https://github.com/zstoimchev/zmix) – _Tor-inspired P2P anonymous network with layered encryption_
+- [**zetra**](https://github.com/zstoimchev/zetra) – _Educational blockchain exploring consensus and cryptography_
+- [**ztron**](https://github.com/zstoimchev/ztron) – _Merkle tree builder and verifier for file integrity (work in progress)_
 
-#### [**zetra**](https://github.com/zstoimchev/zetra) - Blockchain Implementation  
-Custom blockchain developed in Java 21 from scratch, exploring distributed systems and cryptographic data structures.
-- **Skills:** Distributed systems, hashing algorithms, consensus mechanisms
+![Networking](https://img.shields.io/badge/TCP%2FIP-blue?style=flat)
+![Cryptography](https://img.shields.io/badge/AES%2FRSA-darkviolet?style=flat)
+![P2P](https://img.shields.io/badge/P2P-green?style=flat)
+![Distributed Systems](https://img.shields.io/badge/Distributed-amber?style=flat)
+![Hashing](https://img.shields.io/badge/SHA--256-red?style=flat)
+![Consensus](https://img.shields.io/badge/Consensus-yellow?style=flat)
+![Merkle Tree](https://img.shields.io/badge/Merkle%20Tree-indigo?style=flat)
+![Integrity](https://img.shields.io/badge/Integrity-lightgrey?style=flat)
 
-#### [**lzw-compression**](https://github.com/zstoimchev/lzw-compression)
-Implementation of LZW compression algorithm in Java, demonstrating data structure optimization and algorithmic efficiency.
-- **Skills:** Algorithm implementation, performance optimization
+### 🧠 Systems & Algorithms
 
-### Systems Programming
+- [**socket-msg-exch**](https://github.com/zstoimchev/socket-msg-exch) – _Raw TCP socket message exchange in C_
+- [**lzw-compression**](https://github.com/zstoimchev/lzw-compression) – _Classic LZW compression algorithm in Java_
 
-#### [**socket-msg-exch**](https://github.com/zstoimchev/socket-msg-exch)
-Client-server message exchange application using raw C sockets. Hands-on experience with TCP/IP programming at the systems level.
-- **Skills:** Socket programming, C, network protocols
+![C Programming](https://img.shields.io/badge/C%20programming-blue?style=flat)
+![Sockets](https://img.shields.io/badge/Sockets-lightblue?style=flat)
+![Networking](https://img.shields.io/badge/Networking-blue?style=flat)
+![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=flat)
+![Data Compression](https://img.shields.io/badge/Data%20Compression-red?style=flat)
+![Optimization](https://img.shields.io/badge/Optimization-red?style=flat)
 
-### Full-Stack Applications
+### 🌐 Full-Stack & Community
 
-#### [**library-management-system**](https://github.com/zstoimchev/library-management-system)
-Full-stack application using .NET Core backend with React frontend for managing books and authors.
-- **Skills:** RESTful APIs, database design, modern web architecture
+- [**library-management-system**](https://github.com/zstoimchev/library-management-system) – _Full-stack CRUD app for managing books and authors_
+- [**portfolio**](https://github.com/zstoimchev/portfolio) – _Self-hosted personal site for showcasing projects and experience_
+- [**campus-companion**](https://github.com/zstoimchev/campus-companion) – _AI-powered student tool platform focused on community engagement_
 
-#### [**portfolio**](https://github.com/zstoimchev/portfolio)
-Personal portfolio with integrated blog built with Next.js, deployed and self-hosted.
-- **Skills:** Next.js, TypeScript, deployment, web hosting
+![.NET Core](https://img.shields.io/badge/.NET%20Core-purple?style=flat)
+![React](https://img.shields.io/badge/React-blue?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-darkgreen?style=flat)
+![Database Modeling](https://img.shields.io/badge/Database%20Modeling-darkorange?style=flat)
 
 
 ## 🏗️ Homelab & Infrastructure
