@@ -92,6 +92,8 @@ Current Focus:
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-darkgreen?style=flat)
 ![Database Modeling](https://img.shields.io/badge/Database%20Modeling-darkorange?style=flat)
 
+> Fun fact: You can't get hacked if you pull the cable in time... right? 🤓🔌💥"z
+
 
 ## 🏗️ Homelab & Cybersecurity Journey
 
@@ -100,6 +102,8 @@ Current Focus:
 - **Services:** Apache, Nextcloud, PostgreSQL/MySQL, dev environments
 - **Network & Security:** VLAN segmentation, pfSense firewall, VPN, regular patching
 
+<details>
+<summary>Learning Goals</summary>
 **Learning Goals:**
 - Infrastructure as Code with Ansible
 - Docker Swarm/Kubernetes orchestration
@@ -107,18 +111,7 @@ Current Focus:
 - Web & Network Security: OWASP Top 10, IDS/IPS, penetration testing
 - Tools: Burp Suite, Metasploit, Nessus
 - Certifications: CompTIA Security+, CEH, CCNA
-
-> Fun fact: You can't get hacked if you pull the cable in time... right? 🤓🔌💥"z
-
-
-
-## 🌱 Currently Working On
-
-- Building automated deployment pipelines with Ansible
-- Expanding Proxmox homelab with security-focused segmentation
-- Contributing to open-source projects in networking and security
-- Documenting infrastructure and creating technical write-ups
-- Preparing for security certifications
+</details>
 
 
 
@@ -142,3 +135,20 @@ Current Focus:
 ```
 
 💡 *Open to collaborations on infrastructure, networking, and security projects*
+
+
+
+
+
+
+<details>
+<summary>🏗️ Homelab & Cybersecurity</summary>
+
+- Hypervisor: Proxmox VE cluster  
+- Services: Apache, Nextcloud, PostgreSQL/MySQL  
+- Networking: VLAN segmentation, pfSense, VPN  
+- Learning: Ansible, Docker/Kubernetes, ELK stack  
+- Security: OWASP Top 10, IDS/IPS, penetration testing  
+- Tools: Burp Suite, Metasploit, Nessus
+
+</details>
