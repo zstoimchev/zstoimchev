@@ -125,7 +125,7 @@ Current Focus:
 ## 📫 Get in Touch
 
 - 🌐 Website: [zstoimchev.com](https://zstoimchev.com)
-- 📧 Email: zstoimchev@outlook.com
+- 📧 Email: contact@zstoimchev.com
 - 💼 LinkedIn: [in/zstoimchev](https://www.linkedin.com/in/zstoimchev)
 - 📍 Location: Koper, Slovenia
 
