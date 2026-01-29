@@ -92,7 +92,7 @@ Current Focus:
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-darkgreen?style=flat)
 ![Database Modeling](https://img.shields.io/badge/Database%20Modeling-darkorange?style=flat)
 
-> Fun fact: You can't get hacked if you pull the cable in time... right? 🤓🔌💥"z
+> Fun fact: You can't get hacked if you pull the cable in time... right? 🤓🔌💥"
 
 
 ## 🏗️ Homelab & Cybersecurity Journey
