@@ -81,6 +81,7 @@ Current Focus:
 ![Optimization](https://img.shields.io/badge/Optimization-red?style=flat)
 
 ### 🌐 Full-Stack & Community
+- [**zordo**](https://github.com/zstoimchev/zordo) – _An AI-assisted task scheduling and planning engine for students_
 - [**library-management-system**](https://github.com/zstoimchev/library-management-system) – _Full-stack CRUD app for managing books and authors_
 - [**portfolio**](https://github.com/zstoimchev/portfolio) – _Self-hosted personal site for showcasing projects and experience_
 - [**campus-companion**](https://github.com/zstoimchev/campus-companion) – _AI-powered student tool platform focused on community engagement_
