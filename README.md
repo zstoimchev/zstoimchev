@@ -15,7 +15,7 @@ _3rd Year Computer Science Student @ University of Primorska, Slovenia_
 ║      ██  ███████╗███████║  ██             Languages: Bash, C, Java, Rust           ║      //   \ \
 ║       ██ ╚══════╝╚══════╝ ██              Location: Koper, Slovenia                ║     (|     | )
 ║                                                                                    ║    /'\_   _/`\
-║     CPU usage: ██████████ 100%            Kernel: Linux 6.17.12-300.fc43.x86_64    ║    \___)=(___/
+║     CPU usage: ██████████ 100%            Kernel: Linux 7.0.4-100.fc43.x86_64      ║    \___)=(___/
 ║     RAM usage: ████████░░  80%            Uptime: depends on the last reboot       ║
 ╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
