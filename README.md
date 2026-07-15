@@ -1,4 +1,4 @@
-# Hello there! 👋
+<!--# Hello there! 👋-->
 
 **System Administrator | Network Engineer | Aspiring Cybersecurity Professional** \
 _3rd Year Computer Science Student @ University of Primorska, Slovenia_
