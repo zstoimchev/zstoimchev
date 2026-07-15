@@ -20,18 +20,7 @@ _3rd Year Computer Science Student @ University of Primorska, Slovenia_
 ╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-
-## 🎯 About Me
-
 I'm a hands-on system administrator and networking enthusiast building expertise in infrastructure security and operations. My work spans from low-level systems programming to production-grade deployments, with a strong focus on understanding how systems work under the hood.
-
-```
-Current Focus:
-├── Infrastructure & Virtualization (Proxmox homelab)
-├── Network Security & Protocol Analysis  
-├── Systems Programming (C, Java, Rust)
-└── Security Research & Penetration Testing
-```
 
 ## 🔧 Technical Skills & Stack
 
@@ -102,18 +91,6 @@ Current Focus:
 - **Hypervisor:** Proxmox VE cluster managing multiple VMs
 - **Services:** Apache, Nextcloud, PostgreSQL/MySQL, dev environments
 - **Network & Security:** VLAN segmentation, pfSense firewall, VPN, regular patching
-
-<details>
-<summary>Learning Goals</summary>
-**Learning Goals:**
-- Infrastructure as Code with Ansible
-- Docker Swarm/Kubernetes orchestration
-- Centralized logging (ELK stack)
-- Web & Network Security: OWASP Top 10, IDS/IPS, penetration testing
-- Tools: Burp Suite, Metasploit, Nessus
-- Certifications: CompTIA Security+, CEH, CCNA
-</details>
-
 
 
 ## 📊 GitHub Activity
